@@ -1,3 +1,5 @@
+<img src="cherry blossom.avif" width="100%">
+
 # Hi there, I'm Lis! 👋
 
 ### 🚀 Digital Creator & Aspiring Developer
